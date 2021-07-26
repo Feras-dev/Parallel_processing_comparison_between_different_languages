@@ -1,74 +1,44 @@
 {
     "0": {
-        "execution time": 1.00827956199646,
-        "number of total hits": 102,
-        "number of positive hits": 100,
+        "execution time": 305.6175580024719,
+        "number of total hits": 2000,
+        "number of positive hits": 1852,
         "number of unhandled hits": 0,
-        "number of error hits": 2
+        "number of error hits": 148
     },
     "1": {
-        "execution time": 0.5247762203216553,
-        "number of total hits": 102,
-        "number of positive hits": 100,
+        "execution time": 352.46563839912415,
+        "number of total hits": 2000,
+        "number of positive hits": 1852,
         "number of unhandled hits": 0,
-        "number of error hits": 2
+        "number of error hits": 148
     },
     "2": {
-        "execution time": 2.8490514755249023,
-        "number of total hits": 102,
-        "number of positive hits": 100,
+        "execution time": 303.1706564426422,
+        "number of total hits": 2000,
+        "number of positive hits": 1856,
         "number of unhandled hits": 0,
-        "number of error hits": 2
-    },
-    "3": {
-        "execution time": 0.8793256282806396,
-        "number of total hits": 102,
-        "number of positive hits": 100,
-        "number of unhandled hits": 0,
-        "number of error hits": 2
-    },
-    "4": {
-        "execution time": 0.6051597595214844,
-        "number of total hits": 102,
-        "number of positive hits": 100,
-        "number of unhandled hits": 0,
-        "number of error hits": 2
-    },
-    "5": {
-        "execution time": 0.38172197341918945,
-        "number of total hits": 102,
-        "number of positive hits": 100,
-        "number of unhandled hits": 0,
-        "number of error hits": 2
+        "number of error hits": 144
     },
     "summary": {
         "time data points": [
-            1.00827956199646,
-            0.5247762203216553,
-            2.8490514755249023,
-            0.8793256282806396,
-            0.6051597595214844,
-            0.38172197341918945
+            305.6175580024719,
+            352.46563839912415,
+            303.1706564426422
         ],
         "total hits": [
-            102,
-            102,
-            102,
-            102,
-            102,
-            102
+            2000,
+            2000,
+            2000
         ],
         "errors": [
-            2,
-            2,
-            2,
-            2,
-            2,
-            2
+            148,
+            148,
+            144
         ],
-        "Mean execution time": 1.0413857698440552,
-        "Median execution time": 0.742242693901062,
-        "Standard deviation execution time": 0.9151338368817523,
-        "Variance execution time": 0.8374699394059177
+        "Mean execution time": 320.4179509480794,
+        "Median execution time": 305.6175580024719,
+        "Standard deviation execution time": 27.781064325017518,
+        "Variance execution time": 771.7875350307611
     }
 }

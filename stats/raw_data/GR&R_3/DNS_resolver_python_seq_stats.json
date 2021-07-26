@@ -1,24 +1,44 @@
 {
     "0": {
-        "execution time": 4.499317407608032,
-        "number of total hits": 102,
-        "number of positive hits": 100,
+        "execution time": 379.5519530773163,
+        "number of total hits": 2000,
+        "number of positive hits": 1928,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "1": {
+        "execution time": 369.12197041511536,
+        "number of total hits": 2000,
+        "number of positive hits": 1926,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "2": {
+        "execution time": 397.18319606781006,
+        "number of total hits": 2000,
+        "number of positive hits": 1927,
         "number of unhandled hits": 0,
         "number of error hits": 0
     },
     "summary": {
         "time data points": [
-            4.499317407608032
+            379.5519530773163,
+            369.12197041511536,
+            397.18319606781006
         ],
         "total hits": [
-            102
+            2000,
+            2000,
+            2000
         ],
         "errors": [
+            0,
+            0,
             0
         ],
-        "Mean execution time": 4.499317407608032,
-        "Median execution time": 4.499317407608032,
-        "Standard deviation execution time": null,
-        "Variance execution time": null
+        "Mean execution time": 381.95237318674725,
+        "Median execution time": 379.5519530773163,
+        "Standard deviation execution time": 14.183779778647974,
+        "Variance execution time": 201.17960880918318
     }
 }
