@@ -1,0 +1,74 @@
+{
+    "0": {
+        "execution time": 5.030949592590332,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "1": {
+        "execution time": 3.5154800415039062,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "2": {
+        "execution time": 3.878732919692993,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "3": {
+        "execution time": 4.934625864028931,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "4": {
+        "execution time": 5.940366983413696,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "5": {
+        "execution time": 4.894307374954224,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "summary": {
+        "time data points": [
+            5.030949592590332,
+            3.5154800415039062,
+            3.878732919692993,
+            4.934625864028931,
+            5.940366983413696,
+            4.894307374954224
+        ],
+        "total hits": [
+            102,
+            102,
+            102,
+            102,
+            102,
+            102
+        ],
+        "errors": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Mean execution time": 4.699077129364014,
+        "Median execution time": 4.914466619491577,
+        "Standard deviation execution time": 0.8738883884732354,
+        "Variance execution time": 0.7636809155083484
+    }
+}

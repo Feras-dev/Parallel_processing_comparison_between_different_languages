@@ -1,0 +1,24 @@
+{
+    "0": {
+        "execution time": 4.499317407608032,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "summary": {
+        "time data points": [
+            4.499317407608032
+        ],
+        "total hits": [
+            102
+        ],
+        "errors": [
+            0
+        ],
+        "Mean execution time": 4.499317407608032,
+        "Median execution time": 4.499317407608032,
+        "Standard deviation execution time": null,
+        "Variance execution time": null
+    }
+}

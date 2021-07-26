@@ -1,0 +1,112 @@
+{
+    "TEST_A" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "multiprocessing",
+        "language" : "c",
+        "iterations" : 3,
+        "executable_name" : "multi-lookup",
+        "input_files_names" : ["hosts2k_1.txt", "hosts2k_2.txt", "hosts2k_3.txt", "hosts2k_4.txt"],
+        "output_file_name" : "c_mp_out.txt",
+        "statistics_output_file_name" : "c_mp_stats.json"
+    },
+    "TEST_B" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "multiprocessing",
+        "language" : "go",
+        "iterations" : 3,
+        "executable_name" : "",
+        "input_files_names" : ["names1.txt", "names2.txt", "names3.txt", "names4.txt", "names5.txt"],
+        "output_file_name" : "go_mp_out.txt",
+        "statistics_output_file_name" : "go_mp_stats.json"
+    },
+    "TEST_C" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "multiprocessing",
+        "language" : "rust",
+        "iterations" : 3,
+        "executable_name" : "",
+        "input_files_names" : ["names1.txt", "names2.txt", "names3.txt", "names4.txt", "names5.txt"],
+        "output_file_name" : "rust_mp_out.txt",
+        "statistics_output_file_name" : "rust_mp_stats.json"
+    },
+    "TEST_D" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "multithreading",
+        "language" : "c",
+        "iterations" : 3,
+        "executable_name" : "multi-lookup",
+        "input_files_names" : ["hosts2k_1.txt", "hosts2k_2.txt", "hosts2k_3.txt", "hosts2k_4.txt"],
+        "output_file_name" : "c_mt_out.txt",
+        "statistics_output_file_name" : "c_mt_stats.json"
+    },
+    "TEST_E" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "multithreading",
+        "language" : "go",
+        "iterations" : 3,
+        "executable_name" : "multi-lookup",
+        "input_files_names" : ["hosts2k_1.txt", "hosts2k_2.txt", "hosts2k_3.txt", "hosts2k_4.txt"],
+        "output_file_name" : "go_mt_out.txt",
+        "statistics_output_file_name" : "go_mt_stats.json"
+    },
+    "TEST_F" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "multithreading",
+        "language" : "rust",
+        "iterations" : 3,
+        "executable_name" : "",
+        "input_files_names" : ["names1.txt", "names2.txt", "names3.txt", "names4.txt", "names5.txt"],
+        "output_file_name" : "rust_mt_out.txt",
+        "statistics_output_file_name" : "rust_mt_stats.json"
+    },
+    "TEST_G" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "multithreading",
+        "language" : "python",
+        "iterations" : 3,
+        "executable_name" : "multi-lookup.py",
+        "input_files_names" : ["hosts2k_1.txt", "hosts2k_2.txt", "hosts2k_3.txt", "hosts2k_4.txt"],
+        "output_file_name" : "python_mt_out.txt",
+        "statistics_output_file_name" : "python_mt_stats.json"
+    },
+    "TEST_H" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "sequential",
+        "language" : "c",
+        "iterations" : 3,
+        "executable_name" : "lookup",
+        "input_files_names" : ["hosts2k_1.txt", "hosts2k_2.txt", "hosts2k_3.txt", "hosts2k_4.txt"],
+        "output_file_name" : "c_seq_out.txt",
+        "statistics_output_file_name" : "c_seq_stats.json"
+    },
+    "TEST_I" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "sequential",
+        "language" : "go",
+        "iterations" : 3,
+        "executable_name" : "lookup",
+        "input_files_names" : ["hosts2k_1.txt", "hosts2k_2.txt", "hosts2k_3.txt", "hosts2k_4.txt"],
+        "output_file_name" : "go_seq_out.txt",
+        "statistics_output_file_name" : "go_seq_stats.json"
+    },
+    "TEST_J" : 
+    {
+        "name" : "DNS_resolver",
+        "type" : "sequential",
+        "language" : "python",
+        "iterations" : 3,
+        "executable_name" : "lookup.py",
+        "input_files_names" : ["hosts2k_1.txt", "hosts2k_2.txt", "hosts2k_3.txt", "hosts2k_4.txt"],
+        "output_file_name" : "python_seq_out.txt",
+        "statistics_output_file_name" : "python_seq_stats.json"
+    }
+}

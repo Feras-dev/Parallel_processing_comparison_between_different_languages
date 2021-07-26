@@ -1,0 +1,64 @@
+{
+    "0": {
+        "execution time": 0.694352388381958,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "1": {
+        "execution time": 0.6955363750457764,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "2": {
+        "execution time": 0.38622140884399414,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "3": {
+        "execution time": 0.9822125434875488,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "4": {
+        "execution time": 0.8261716365814209,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 0
+    },
+    "summary": {
+        "time data points": [
+            0.694352388381958,
+            0.6955363750457764,
+            0.38622140884399414,
+            0.9822125434875488,
+            0.8261716365814209
+        ],
+        "total hits": [
+            102,
+            102,
+            102,
+            102,
+            102
+        ],
+        "errors": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Mean execution time": 0.7168988704681396,
+        "Median execution time": 0.6955363750457764,
+        "Standard deviation execution time": 0.2194562406246511,
+        "Variance execution time": 0.04816104154910476
+    }
+}

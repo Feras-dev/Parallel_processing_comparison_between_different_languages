@@ -1,0 +1,74 @@
+{
+    "0": {
+        "execution time": 1.5601427555084229,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 2
+    },
+    "1": {
+        "execution time": 2.0201616287231445,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 2
+    },
+    "2": {
+        "execution time": 2.222419261932373,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 2
+    },
+    "3": {
+        "execution time": 1.2108821868896484,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 2
+    },
+    "4": {
+        "execution time": 2.098447322845459,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 2
+    },
+    "5": {
+        "execution time": 1.7359564304351807,
+        "number of total hits": 102,
+        "number of positive hits": 100,
+        "number of unhandled hits": 0,
+        "number of error hits": 2
+    },
+    "summary": {
+        "time data points": [
+            1.5601427555084229,
+            2.0201616287231445,
+            2.222419261932373,
+            1.2108821868896484,
+            2.098447322845459,
+            1.7359564304351807
+        ],
+        "total hits": [
+            102,
+            102,
+            102,
+            102,
+            102,
+            102
+        ],
+        "errors": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "Mean execution time": 1.8080015977223713,
+        "Median execution time": 1.8780590295791626,
+        "Standard deviation execution time": 0.38060181318330455,
+        "Variance execution time": 0.14485774019841907
+    }
+}
